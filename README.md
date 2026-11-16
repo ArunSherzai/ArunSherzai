@@ -1,16 +1,26 @@
-## Hi there 👋
+# Arun Sherzai
 
-<!--
-**ArunSherzai/ArunSherzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Informatik-Student an der FH Technikum Wien. Davor HTL Donaustadt, Abteilung Informatik (Matura mit ausgezeichnetem Erfolg).
 
-Here are some ideas to get you started:
+Ich baue am liebsten Apps, die man wirklich benutzen will: saubere Oberflächen, durchdachte Animationen und ein Backend, das dahinter mitspielt.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projekte
+
+**PlantUp** – Diplomarbeit, 5-köpfiges Team  
+Smart-Gardening-App mit IoT-Sensoren, Gamification und Community.  
+Mein Teil: Missionen, Daily Streaks, XP- und Belohnungssystem, Maskottchen-Animationen, Direktnachrichten, Push-Benachrichtigungen, Feed und Profil sowie eine C#-MQTT-Middleware und eine Video-Upload-API.  
+React Native · Expo · TypeScript · Supabase · C# / ASP.NET
+
+**UFC Fight Predictor** – mit David Vukasovic  
+Web-App, die Kampfausgänge aus über 8.000 historischen UFC-Kämpfen vorhersagt (Sieger, Runde, Methode).  
+Mein Teil: Kämpfervergleich in der Oberfläche und Datenvisualisierung, Rest gemeinsam im Pair Programming.  
+Python · scikit-learn · Streamlit · pandas
+
+## Erfahrung
+
+- IT-Compliance-Praktikum bei Octapharma (GMP-Dokumentation, SOP-Analyse, Risikoanalyse)
+- Praktikum Digitalisierung bei REISSWOLF
+
+## Tech
+
+TypeScript · React Native · Python · C# · Java · SQL · Supabase · Git
