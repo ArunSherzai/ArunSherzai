@@ -11,7 +11,7 @@ Smart-Gardening-App mit IoT-Sensoren, Gamification und Community.
 Mein Teil: Missionen, Daily Streaks, XP- und Belohnungssystem, Maskottchen-Animationen, Direktnachrichten, Push-Benachrichtigungen, Feed und Profil sowie eine C#-MQTT-Middleware und eine Video-Upload-API.  
 React Native · Expo · TypeScript · Supabase · C# / ASP.NET
 
-**UFC Fight Predictor** – mit David Vukasovic  
+**[UFC Fight Predictor](https://github.com/ArunSherzai/UFCPrediction)** – mit David Vukasovic  
 Web-App, die Kampfausgänge aus über 8.000 historischen UFC-Kämpfen vorhersagt (Sieger, Runde, Methode).  
 Mein Teil: Kämpfervergleich in der Oberfläche und Datenvisualisierung, Rest gemeinsam im Pair Programming.  
 Python · scikit-learn · Streamlit · pandas
