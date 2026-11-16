@@ -6,7 +6,7 @@ Ich baue am liebsten Apps, die man wirklich benutzen will: saubere Oberflächen,
 
 ## Projekte
 
-**PlantUp** – Diplomarbeit, 5-köpfiges Team  
+**[PlantUp](https://github.com/ArunSherzai/PlantUp)** – Diplomarbeit, 5-köpfiges Team  
 Smart-Gardening-App mit IoT-Sensoren, Gamification und Community.  
 Mein Teil: Missionen, Daily Streaks, XP- und Belohnungssystem, Maskottchen-Animationen, Direktnachrichten, Push-Benachrichtigungen, Feed und Profil sowie eine C#-MQTT-Middleware und eine Video-Upload-API.  
 React Native · Expo · TypeScript · Supabase · C# / ASP.NET
@@ -24,3 +24,7 @@ Python · scikit-learn · Streamlit · pandas
 ## Tech
 
 TypeScript · React Native · Python · C# · Java · SQL · Supabase · Git
+
+## Kontakt
+
+[arunsherzai@gmail.com](mailto:arunsherzai@gmail.com)
