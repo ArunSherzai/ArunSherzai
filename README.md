@@ -27,4 +27,4 @@ TypeScript · React Native · Python · C# · Java · SQL · Supabase · Git
 
 ## Kontakt
 
-[arunsherzai@gmail.com](mailto:arunsherzai@gmail.com)
+[Website & Lebenslauf](https://arunsherzai.github.io/cv-website/) · [arunsherzai@gmail.com](mailto:arunsherzai@gmail.com)
